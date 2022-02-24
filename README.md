@@ -12,7 +12,7 @@ const RodyData = {
         "make a discord bot": true,
         "travel around the world": loading()
     },
-    loves: ["Hambuguer", "Ice Cream", "Eletronic Music","Code"]
+    loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Code"]
 }
 
 console.log(RodyData)
