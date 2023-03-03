@@ -1,4 +1,4 @@
-```json
+```javascript
 const RodyData = {
     name: "Rodrigo Couto",
     age: 23,
