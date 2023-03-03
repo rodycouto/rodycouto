@@ -1,7 +1,7 @@
-```javascript
+```json
 const RodyData = {
     name: "Rodrigo Couto",
-    age: 22,
+    age: 23,
     skills: [
         "JavaScript",
         "Developer Discord Bots",
