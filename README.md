@@ -1,19 +1,24 @@
 ```javascript
-const RodyData = {
-    name: "Rodrigo Couto",
-    age: 23,
+const Rodycouto = {
+    name: "Rodrigo Couto Santos",
+    dateOfBirth: "26/06/1999",
+    age: "26",
     skills: [
         "JavaScript",
-        "Developer Discord Bots",
-        "Professional Sleeper",
-        "Hamburguer Lover"
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Discord Bots Developer",
+        "Engenharia da Computação",
+        "Python",
+        "C++",
+        "C#"
     ],
     missions: {
-        "make a discord bot": true,
         "travel around the world": loading()
     },
-    loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Code"]
+    loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Code", "Tecnology"]
 }
 
-console.log(RodyData)
+console.log(Rodycouto)
 ```
