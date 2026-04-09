@@ -1,7 +1,8 @@
 ```javascript
 const Rodycouto = {
     name: "Rodrigo Couto Santos",
-    dateOfBirth: "26/06/1999",
+    studyng: "Computer Engineering",
+    birth: "26/06/1999",
     age: "26",
     skills: [
         "JavaScript",
